@@ -18186,7 +18186,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 999438706}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2b9b7fbdbe2ba4c82beb45f8dd77b9ea, type: 3}
+  m_Script: {fileID: 11500000, guid: e95cf4c1bc4ff441fa28c21c96ab726e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 999438707}
@@ -18402,7 +18402,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1556104295}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 98df0452df12b4f4bacc8f84f7c564ea, type: 3}
+  m_Script: {fileID: 11500000, guid: cac53f0e59b4d4e458e08f1d145e021a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 1556104301}
@@ -18410,7 +18410,7 @@ MonoBehaviour:
   enemyLayers:
     serializedVersion: 2
     m_Bits: 128
-  attackRange: 0.45
+  attackRange: 0.5
   attackDamage: 20
   attackRate: 2
 --- !u!1 &1701437381
